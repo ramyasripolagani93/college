@@ -1,2 +1,1 @@
 ﻿welcome to college
-This repository contains my git and GitHub practice work.
